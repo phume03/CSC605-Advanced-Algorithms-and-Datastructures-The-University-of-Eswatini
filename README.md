@@ -21,7 +21,9 @@ classification based on the number of swaps| Swapping or moving elements in memo
 
 [Ananya Levitin, in Introduction to the Design and Analysis of Algorithms](https://www.google.com/books/edition/Introduction_to_the_Design_Analysis_of_A/dQeqKQEACAAJ?hl=en) states that the searching problem deals with finding a given value, called a search key in a given set. There is no single algorithm that fits all situations.
 
-## PART A: Algorithm Complexity and Analysis ##`
+
+
+## PART A: Algorithm Complexity and Analysis ##
 ### Task 1 -- Comparative Complexity Analysis ###
 Given 4 algorithms, comprising of 2 search algorithms and 2 sorting algorithms, we have run simulations using randomly generated sets or inputs of 1,000; 10,000; and 100,000 elements and collected the running time for each algorithm given those sets as input. Then, we have tabulated the results of the executions.
 
@@ -95,6 +97,8 @@ Running Heap Sort on integer inputs of different sizes we get the following resu
 
 N = 1,000 T=215microseconds; N=10,000 T=2884microseconds; N=100,000 T=28718microseconds
 
+
+
 ## PART B: Searching and Sorting Algorithms ##
 ### Task 2 -- Algorithm Implementation and Optimization ###
 #### SORTING: Counting Sort ####
@@ -132,6 +136,7 @@ Running Exponential Search on the same random positive integer arrays as above o
 
     When K random:
         N = 1,000 T= 17,781 microseconds; N=10,000 T= 21,686 microseconds; N=100,000 T= 23,671 microseconds         
+
 
 
 ## PART C: Tree Data Structures ##
@@ -260,6 +265,8 @@ According to Hubbard, J., to insert a record with key k using a B-tree index of 
  He goes on to say that the deletion algorithm for B-trees is similar to the insertion algorithm. All three algorithms run in time proportional to the height of the tree. But this is not our research consideration. Hubbard's approach differs from others and it was worth noting this, as it seems rather simple. Another approach was presented by 
 
 * * * 
+
+
 
 ## Resources ##
 
