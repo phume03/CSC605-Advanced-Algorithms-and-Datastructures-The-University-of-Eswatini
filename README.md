@@ -291,6 +291,6 @@ According to Hubbard, J., to insert a record with key k using a B-tree index of 
 
 * [What is the Difference Between Internal and External Sorting](https://differencedigest.com/science/computers/what-is-the-difference-between-internal-and-external-sorting/)
 
-* [Searching and sorting algorithms - OCR] (https://www.bbc.co.uk/bitesize/guides/zjdkw6f/revision/1)
+* [Searching and sorting algorithms \- OCR] (https://www.bbc.co.uk/bitesize/guides/zjdkw6f/revision/1)
 
 * [Searching algorithms](https://adacomputerscience.org/topics/searching)
