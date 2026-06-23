@@ -1,6 +1,6 @@
 # Performance Analysis and Implementation of Advanced Searching, Sorting, and Tree Algorithms #
 
-![Dilbert Engineering Thought Algorithm](./Dilbert Engineering.png)
+![Dilbert Engineering Thought Algorithm](./Dilbert%20Engineering.png)
 
 Given a list of elements {a1 , a2 ,…, an }, [sorting](https://www.britannica.com/technology/sorting-algorithm) is a procedure that rearranges the elements of the array such that for any two elements in the sorted list, ai and aj, ai < aj. It may be noted that an array with a single element is deemed to be sorted. The process is carried out to facilitate [searching](https://adacomputerscience.org/topics/searching). A sorted array is easy to search and maintain. Sorting can be classified in many ways. According to [Harsh Bhasin, in Algorithms Design & Analysis](https://www.google.com/books/edition/Algorithms/BEE7jgEACAAJ?hl=en), it can be: 
 
@@ -359,7 +359,7 @@ According to [Hubbard, J.](https://books.google.com/books/about/Data_Structures_
  14. Otherwise, insert kj in x’s parent node and attach subtrees u and v.
  15. Return true.
  
- ![Hagar Money Pep-Talk](./Hagar Money.png)
+ ![Hagar Money Pep-Talk](./Hagar%20Money.png)
 
  He goes on to say that the deletion algorithm for B-trees is similar to the insertion algorithm. All three algorithms run in time proportional to the height of the tree. But this is not our research consideration. Hubbard's approach differs from others and it was worth noting this, as it seems rather simple. Another approach was presented by 
 
