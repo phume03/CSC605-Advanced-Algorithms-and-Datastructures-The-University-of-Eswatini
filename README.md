@@ -361,7 +361,7 @@ According to [Hubbard, J.](https://books.google.com/books/about/Data_Structures_
  
  ![Hagar Money Pep-Talk](./Hagar%20Money.png)
 
- He goes on to say that the deletion algorithm for B-trees is similar to the insertion algorithm. All three algorithms run in time proportional to the height of the tree. But this is not our research consideration. Hubbard's approach differs from others and it was worth noting this, as it seems rather simple. Another approach was presented by 
+ He goes on to say that the deletion algorithm for B-trees is similar to the insertion algorithm. All three algorithms run in time proportional to the height of the tree. But this is not our research consideration. Hubbard's approach differs from others and it was worth noting this, as it seems rather simple. 
 
 * * * 
 
